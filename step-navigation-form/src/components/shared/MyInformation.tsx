@@ -4,53 +4,13 @@ import countryList from "../../model/mock/countryList.json";
 import prefixList from "../../model/mock/prefixList.json";
 import suffixList from "../../model/mock/suffixList.json";
 import stateCodes from "../../model/mock/stateCodes.json";
-
-type InformationFormValues = {
-  country: string;
-  prefix: string;
-  email: string;
-  firstName: string;
-  middleName: string;
-  lastName: string;
-  suffix: string;
-  address: {
-    addressLine1: string;
-    addressLine2: string;
-  };
-  city: string;
-  state: string;
-  zipCode: string;
-  phoneType: string;
-  phoneNumber: number;
-  countryCode: number;
-  phoneExtension: number;
-};
-
-type countryPhoneCode = {
-  id: string;
-  descriptor: string;
-};
-
-type countryListType = {
-  id: number;
-  descriptor: string;
-};
-
-type prefixListType = {
-  id: string;
-  descriptor: string;
-};
-
-type suffixListType = {
-  id: string;
-  descriptor: string;
-};
-
-type StateCodeType = {
-  id: string;
-  descriptor: string;
-  alpha2Code: string;
-};
+import {
+  countryListType,
+  InformationFormValues,
+  prefixListType,
+  StateCodeType,
+  suffixListType,
+} from "../../model/FormValues";
 
 const MyInformation = () => {
   const {
@@ -251,12 +211,6 @@ const MyInformation = () => {
               );
             })}
           </select>
-          {/* <input
-            {...register("state", { required: "This field is required" })}
-            className="form-input"
-            type="text"
-            placeholder="State"
-          /> */}
         </div>
 
         <div className="form-field">

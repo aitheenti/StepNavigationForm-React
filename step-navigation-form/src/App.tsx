@@ -1,6 +1,7 @@
 import React from "react";
 
 import "./App.css";
+import Logo from "./assets/logo.jpg";
 import { StepContext } from "./stepContext";
 import { FormValues } from "./model/FormValues";
 import StepHeader from "./components/StepsHeader";
@@ -90,9 +91,12 @@ function App() {
       }}
     >
       <FormProvider {...methods}>
-        <StepHeader />
-        <FormContent />
-        <StepFooter />
+        <div className="AppContainer">
+          <img src={Logo} alt="logo" className="logo" />
+          <StepHeader />
+          <FormContent />
+          <StepFooter />
+        </div>
         {process.env.NODE_ENV === "development" && (
           <DevTool control={methods.control} />
         )}

@@ -12,9 +12,10 @@ const StepFooter = () => {
   } = useContext(StepContext);
 
   return (
-    <div className="flex justify-end">
+    <div className="flex justify-end bg-white sticky bottom-0">
       {formStep > 1 && (
         <button
+          className="mr-4 "
           disabled={formStep === formStepsInfo[0].stepNumber}
           onClick={handlePrevious}
         >

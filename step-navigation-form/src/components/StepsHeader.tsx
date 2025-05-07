@@ -1,12 +1,23 @@
+import { useContext } from "react";
+import { StepContext } from "../stepContext";
+
 const StepHeader = () => {
-  console.log("step header");
+  const { formStepsInfo } = useContext(StepContext);
   return (
     <div className="flex flex-col">
       <h1>Job Posting Name</h1>
       <div className="flex">
-        <h3 className="p-5">Step 1 of 3 - Step Name</h3>
-        <h3 className="p-5">Step 2 of 3 - Step Name</h3>
-        <h3 className="p-5">Step 3 of 3 - Step Name</h3>
+        {formStepsInfo.map((step, index) => {
+          return (
+            <div
+              className="m-5 flex flex-col items-center"
+              key={`${step.stepLabel}-${index}`}
+            >
+              <h3 className="p-5">Step {step.stepNumber}</h3>
+              <h4> {step.stepLabel}</h4>
+            </div>
+          );
+        })}
       </div>
     </div>
   );
