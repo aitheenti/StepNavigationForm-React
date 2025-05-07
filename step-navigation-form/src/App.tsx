@@ -2,7 +2,7 @@ import React from "react";
 
 import "./App.css";
 import { StepContext } from "./stepContext";
-import { InformationFormValues } from "./model/InformationFormValues";
+import { FormValues } from "./model/FormValues";
 import StepHeader from "./components/StepsHeader";
 import FormContent from "./components/FormContent";
 import { FormProvider, useForm } from "react-hook-form";
@@ -32,8 +32,20 @@ function App() {
     },
   ];
 
-  const methods = useForm<InformationFormValues>({
+  const methods = useForm<FormValues>({
     mode: "onBlur",
+    defaultValues: {
+      country: "",
+      email: "",
+      prefix: "",
+      firstName: "",
+      middleName: "",
+      lastName: "",
+      suffix: "",
+      jobDetails: [],
+      languages: [],
+      socialNetworkUrl: "",
+    },
   });
 
   const [formStep, setFormStep] = React.useState(1);
@@ -53,7 +65,7 @@ function App() {
     }
   };
 
-  const onSubmit = (data: InformationFormValues) => {
+  const onSubmit = (data: FormValues) => {
     console.log(data);
   };
 

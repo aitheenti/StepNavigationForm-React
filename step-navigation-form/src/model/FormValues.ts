@@ -6,10 +6,9 @@ export type InformationFormValues = {
   middleName: string;
   lastName: string;
   suffix: string;
-  onSubmit: (data: InformationFormValues) => void;
 };
 
-export type experienceFormValues = {
+export type ExperienceFormValues = {
   jobDetails: {
     jobTitle: string;
     companyName: string;
@@ -17,7 +16,9 @@ export type experienceFormValues = {
     fromDate: Date;
     toDate: Date;
     description: string;
-  };
+  }[];
   languages: string[];
-  socialNetworkUrls: string;
+  socialNetworkUrl: string;
 };
+
+export type FormValues = InformationFormValues & ExperienceFormValues;

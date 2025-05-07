@@ -28,7 +28,6 @@ const FormContent = () => {
 
   return (
     <div>
-      <h1>FormContent</h1>
       <div>{renderForm()}</div>
     </div>
   );

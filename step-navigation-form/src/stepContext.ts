@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import { InformationFormValues } from "./model/InformationFormValues";
+import { FormValues } from "./model/FormValues";
 
 interface formContextType {
   formStep: number;
@@ -10,8 +10,8 @@ interface formContextType {
   }[];
   validateNextAndContinue: () => void;
   handlePrevious: () => void;
-  onSubmit: (data: InformationFormValues) => void;
-  handleSubmit: (onSubmit: (data: InformationFormValues) => void) => void;
+  onSubmit: (data: FormValues) => void;
+  handleSubmit: (onSubmit: (data: FormValues) => void) => void;
 }
 
 export const StepContext = createContext(<formContextType>{});
