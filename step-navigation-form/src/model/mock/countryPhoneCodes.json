@@ -1,0 +1,998 @@
+[
+  {
+    "id": "db8d9ea8446c11de98360015c5e6daf6",
+    "descriptor": "Afghanistan (+93)"
+  },
+  {
+    "id": "c042c84b26171000037f541d034f0019",
+    "descriptor": "Åland Islands (+358)"
+  },
+  {
+    "id": "db8d91ce446c11de98360015c5e6daf6",
+    "descriptor": "Albania (+355)"
+  },
+  {
+    "id": "db8d3ea4446c11de98360015c5e6daf6",
+    "descriptor": "Algeria (+213)"
+  },
+  {
+    "id": "0a7577c1d7ad46adb829a7f48378dcbd",
+    "descriptor": "American Samoa (+1)"
+  },
+  {
+    "id": "014bd1d4ec084d5e9db836fc853217d3",
+    "descriptor": "Andorra (+376)"
+  },
+  {
+    "id": "db8d6bea446c11de98360015c5e6daf6",
+    "descriptor": "Angola (+244)"
+  },
+  {
+    "id": "3fff91255ab549a8b7669b985d494852",
+    "descriptor": "Anguilla (+1)"
+  },
+  {
+    "id": "19c57e944ec14f719db7e25440086cc7",
+    "descriptor": "Antigua and Barbuda (+1)"
+  },
+  {
+    "id": "db8d3fa8446c11de98360015c5e6daf6",
+    "descriptor": "Argentina (+54)"
+  },
+  {
+    "id": "db8d9fa2446c11de98360015c5e6daf6",
+    "descriptor": "Armenia (+374)"
+  },
+  {
+    "id": "b9de13f11462441da129a92525aeb695",
+    "descriptor": "Aruba (+297)"
+  },
+  {
+    "id": "db8d40c0446c11de98360015c5e6daf6",
+    "descriptor": "Australia (+61)"
+  },
+  {
+    "id": "db8d41c4446c11de98360015c5e6daf6",
+    "descriptor": "Austria (+43)"
+  },
+  {
+    "id": "db8da092446c11de98360015c5e6daf6",
+    "descriptor": "Azerbaijan (+994)"
+  },
+  {
+    "id": "db8da18c446c11de98360015c5e6daf6",
+    "descriptor": "Bahamas (+1)"
+  },
+  {
+    "id": "db8d9cc8446c11de98360015c5e6daf6",
+    "descriptor": "Bahrain (+973)"
+  },
+  {
+    "id": "db8da290446c11de98360015c5e6daf6",
+    "descriptor": "Bangladesh (+880)"
+  },
+  {
+    "id": "db8da38a446c11de98360015c5e6daf6",
+    "descriptor": "Barbados (+1)"
+  },
+  {
+    "id": "db8da47a446c11de98360015c5e6daf6",
+    "descriptor": "Belarus (+375)"
+  },
+  {
+    "id": "db8d69f6446c11de98360015c5e6daf6",
+    "descriptor": "Belgium (+32)"
+  },
+  {
+    "id": "db8d6d3e446c11de98360015c5e6daf6",
+    "descriptor": "Belize (+501)"
+  },
+  {
+    "id": "016373447bfb4cac83fbf3a1746ff65f",
+    "descriptor": "Benin (+229)"
+  },
+  {
+    "id": "db8d76c6446c11de98360015c5e6daf6",
+    "descriptor": "Bermuda (+1)"
+  },
+  {
+    "id": "3795a53f85eb44898df5f182fba1be48",
+    "descriptor": "Bhutan (+975)"
+  },
+  {
+    "id": "db8da56a446c11de98360015c5e6daf6",
+    "descriptor": "Bolivia (+591)"
+  },
+  {
+    "id": "05e597838fa1100004890ccbb8fc0029",
+    "descriptor": "Bonaire, Sint Eustatius, and Saba (+599)"
+  },
+  {
+    "id": "597a3929c9e045c1a3624cd225a73438",
+    "descriptor": "Bosnia and Herzegovina (+387)"
+  },
+  {
+    "id": "db8da664446c11de98360015c5e6daf6",
+    "descriptor": "Botswana (+267)"
+  },
+  {
+    "id": "db8d6906446c11de98360015c5e6daf6",
+    "descriptor": "Brazil (+55)"
+  },
+  {
+    "id": "d73766f70258498b9ad752d8daa861c4",
+    "descriptor": "British Indian Ocean Territory (+246)"
+  },
+  {
+    "id": "506b426f42bc43968f273441b7cb49a5",
+    "descriptor": "British Virgin Islands (+1)"
+  },
+  {
+    "id": "15f886e6248a4c19a9e300b1e507f5a8",
+    "descriptor": "Brunei (+673)"
+  },
+  {
+    "id": "db8d92be446c11de98360015c5e6daf6",
+    "descriptor": "Bulgaria (+359)"
+  },
+  {
+    "id": "98f0022c78ae4910ac30ba212f88043b",
+    "descriptor": "Burkina Faso (+226)"
+  },
+  {
+    "id": "db8da75e446c11de98360015c5e6daf6",
+    "descriptor": "Burundi (+257)"
+  },
+  {
+    "id": "b9b77fd20a4f45a9a164df93a85f1dbe",
+    "descriptor": "Cabo Verde (+238)"
+  },
+  {
+    "id": "db8da84e446c11de98360015c5e6daf6",
+    "descriptor": "Cambodia (+855)"
+  },
+  {
+    "id": "ca3ce43465f14c93a94da30fe2cd3af4",
+    "descriptor": "Cameroon (+237)"
+  },
+  {
+    "id": "db8d3db4446c11de98360015c5e6daf6",
+    "descriptor": "Canada (+1)"
+  },
+  {
+    "id": "1f4fd26a3e4147769188eda7ac7e9604",
+    "descriptor": "Cayman Islands (+1)"
+  },
+  {
+    "id": "3438340a6a9b4dacae7c9b728575d270",
+    "descriptor": "Central African Republic (+236)"
+  },
+  {
+    "id": "db8da93e446c11de98360015c5e6daf6",
+    "descriptor": "Chad (+235)"
+  },
+  {
+    "id": "db8d671c446c11de98360015c5e6daf6",
+    "descriptor": "Chile (+56)"
+  },
+  {
+    "id": "db8d6618446c11de98360015c5e6daf6",
+    "descriptor": "China (+86)"
+  },
+  {
+    "id": "8bc81e17fb601000140aa1d2621a002a",
+    "descriptor": "Christmas Island (+61)"
+  },
+  {
+    "id": "54bc21a931c7100004d6e2f02858001a",
+    "descriptor": "Cocos (Keeling) Islands (+61)"
+  },
+  {
+    "id": "db8d77ca446c11de98360015c5e6daf6",
+    "descriptor": "Colombia (+57)"
+  },
+  {
+    "id": "df116a34115b4f4391b2b3c1effb1fae",
+    "descriptor": "Comoros (+269)"
+  },
+  {
+    "id": "db8dab28446c11de98360015c5e6daf6",
+    "descriptor": "Congo, Democratic Republic of the (+243)"
+  },
+  {
+    "id": "db8daa2e446c11de98360015c5e6daf6",
+    "descriptor": "Congo (+242)"
+  },
+  {
+    "id": "39d013df374b100004f16a8d77d80001",
+    "descriptor": "Cook Islands (+682)"
+  },
+  {
+    "id": "db8d651e446c11de98360015c5e6daf6",
+    "descriptor": "Costa Rica (+506)"
+  },
+  {
+    "id": "db8d78ba446c11de98360015c5e6daf6",
+    "descriptor": "Côte d'Ivoire (+225)"
+  },
+  {
+    "id": "db8d93e0446c11de98360015c5e6daf6",
+    "descriptor": "Croatia (+385)"
+  },
+  {
+    "id": "1425bb06bea94e9fb7b42f3f81fb30b2",
+    "descriptor": "Cuba (+53)"
+  },
+  {
+    "id": "368e5174b5f04fb985096eaaab85d595",
+    "descriptor": "Curaçao (+599)"
+  },
+  {
+    "id": "db8dac18446c11de98360015c5e6daf6",
+    "descriptor": "Cyprus (+357)"
+  },
+  {
+    "id": "db8d79b4446c11de98360015c5e6daf6",
+    "descriptor": "Czechia (+420)"
+  },
+  {
+    "id": "db8d6334446c11de98360015c5e6daf6",
+    "descriptor": "Denmark (+45)"
+  },
+  {
+    "id": "ed8b5cd31c13420ab08dd5c9f9f33caf",
+    "descriptor": "Djibouti (+253)"
+  },
+  {
+    "id": "1d846ad6fe63440aa86e991b2ae6f20e",
+    "descriptor": "Dominica (+1)"
+  },
+  {
+    "id": "db8d892c446c11de98360015c5e6daf6",
+    "descriptor": "Dominican Republic (+1)"
+  },
+  {
+    "id": "db8d7ab8446c11de98360015c5e6daf6",
+    "descriptor": "Ecuador (+593)"
+  },
+  {
+    "id": "db8d623a446c11de98360015c5e6daf6",
+    "descriptor": "Egypt (+20)"
+  },
+  {
+    "id": "db8d8a1c446c11de98360015c5e6daf6",
+    "descriptor": "El Salvador (+503)"
+  },
+  {
+    "id": "08a3466c1efd4a319ee1da0f368c7cbf",
+    "descriptor": "Equatorial Guinea (+240)"
+  },
+  {
+    "id": "b5528c05f7da48889f2b60d2fcad8ae1",
+    "descriptor": "Eritrea (+291)"
+  },
+  {
+    "id": "db8d7bbc446c11de98360015c5e6daf6",
+    "descriptor": "Estonia (+372)"
+  },
+  {
+    "id": "03842602ef914d4f87406fe1031c0034",
+    "descriptor": "Eswatini (+268)"
+  },
+  {
+    "id": "db8dad08446c11de98360015c5e6daf6",
+    "descriptor": "Ethiopia (+251)"
+  },
+  {
+    "id": "85902ae007ef4fe78cf6e270ecc23842",
+    "descriptor": "Falkland Islands (+500)"
+  },
+  {
+    "id": "9d1eea6aa392418abfd559c73d4e4e70",
+    "descriptor": "Faroe Islands (+298)"
+  },
+  {
+    "id": "bf936a9820604fff9c049e79e880d613",
+    "descriptor": "Fiji (+679)"
+  },
+  {
+    "id": "db8d603c446c11de98360015c5e6daf6",
+    "descriptor": "Finland (+358)"
+  },
+  {
+    "id": "db8d5f42446c11de98360015c5e6daf6",
+    "descriptor": "France (+33)"
+  },
+  {
+    "id": "a0aecb3cf8b14121a5f4c5673d472533",
+    "descriptor": "French Guiana (+594)"
+  },
+  {
+    "id": "940c2ec95df841eb8e13aa321d1c867b",
+    "descriptor": "French Polynesia (+689)"
+  },
+  {
+    "id": "2b56bb34e1cd4f29be559690d08fe1a1",
+    "descriptor": "Gabon (+241)"
+  },
+  {
+    "id": "07878b12642840f686af3166f1f13bfa",
+    "descriptor": "Gambia (+220)"
+  },
+  {
+    "id": "db8dadf8446c11de98360015c5e6daf6",
+    "descriptor": "Georgia (+995)"
+  },
+  {
+    "id": "db8d6424446c11de98360015c5e6daf6",
+    "descriptor": "Germany (+49)"
+  },
+  {
+    "id": "db8daf1a446c11de98360015c5e6daf6",
+    "descriptor": "Ghana (+233)"
+  },
+  {
+    "id": "1e558ac586824563a8c9eb472b5d867a",
+    "descriptor": "Gibraltar (+350)"
+  },
+  {
+    "id": "db8d5d44446c11de98360015c5e6daf6",
+    "descriptor": "Greece (+30)"
+  },
+  {
+    "id": "59ed50ca99174dda99100e421967dbac",
+    "descriptor": "Greenland (+299)"
+  },
+  {
+    "id": "c36ef2468d5a4ce2ab44a322c31155c1",
+    "descriptor": "Grenada (+1)"
+  },
+  {
+    "id": "a0c14b2b6fed4578964566a63dc2705c",
+    "descriptor": "Guadeloupe (+590)"
+  },
+  {
+    "id": "2d5ea56a4c4846d1aaaa786a2c43ed50",
+    "descriptor": "Guam (+1)"
+  },
+  {
+    "id": "db8d8b16446c11de98360015c5e6daf6",
+    "descriptor": "Guatemala (+502)"
+  },
+  {
+    "id": "7d7d80df311547ea8ba1e98cc2886912",
+    "descriptor": "Guernsey (+44)"
+  },
+  {
+    "id": "c630ab25ed714d1694234c8d32fc4480",
+    "descriptor": "Guinea (+224)"
+  },
+  {
+    "id": "fe32c0d04edf4b81818e34e3cfb1e869",
+    "descriptor": "Guinea-Bissau (+245)"
+  },
+  {
+    "id": "db8db906446c11de98360015c5e6daf6",
+    "descriptor": "Guyana (+592)"
+  },
+  {
+    "id": "db8dba0a446c11de98360015c5e6daf6",
+    "descriptor": "Haiti (+509)"
+  },
+  {
+    "id": "e52afda01bdc49638dfb9eabd661eb33",
+    "descriptor": "Holy See (Vatican City State) (+39)"
+  },
+  {
+    "id": "db8d8c10446c11de98360015c5e6daf6",
+    "descriptor": "Honduras (+504)"
+  },
+  {
+    "id": "db8d5c54446c11de98360015c5e6daf6",
+    "descriptor": "Hong Kong (+852)"
+  },
+  {
+    "id": "db8d5b50446c11de98360015c5e6daf6",
+    "descriptor": "Hungary (+36)"
+  },
+  {
+    "id": "db8d9bce446c11de98360015c5e6daf6",
+    "descriptor": "Iceland (+354)"
+  },
+  {
+    "id": "db8d5a56446c11de98360015c5e6daf6",
+    "descriptor": "India (+91)"
+  },
+  {
+    "id": "db8d7cac446c11de98360015c5e6daf6",
+    "descriptor": "Indonesia (+62)"
+  },
+  {
+    "id": "db8dbb04446c11de98360015c5e6daf6",
+    "descriptor": "Iran (+98)"
+  },
+  {
+    "id": "db8dbc08446c11de98360015c5e6daf6",
+    "descriptor": "Iraq (+964)"
+  },
+  {
+    "id": "db8d595c446c11de98360015c5e6daf6",
+    "descriptor": "Ireland (+353)"
+  },
+  {
+    "id": "30fa1f0328394f38b97195b77d4c38ed",
+    "descriptor": "Isle of Man (+44)"
+  },
+  {
+    "id": "db8d5862446c11de98360015c5e6daf6",
+    "descriptor": "Israel (+972)"
+  },
+  {
+    "id": "db8d43c2446c11de98360015c5e6daf6",
+    "descriptor": "Italy (+39)"
+  },
+  {
+    "id": "db8d7da6446c11de98360015c5e6daf6",
+    "descriptor": "Jamaica (+1)"
+  },
+  {
+    "id": "db8d44c6446c11de98360015c5e6daf6",
+    "descriptor": "Japan (+81)"
+  },
+  {
+    "id": "e2e645cde8ae4a43ab5883b06a61995a",
+    "descriptor": "Jersey (+44)"
+  },
+  {
+    "id": "db8d94d0446c11de98360015c5e6daf6",
+    "descriptor": "Jordan (+962)"
+  },
+  {
+    "id": "db8d5484446c11de98360015c5e6daf6",
+    "descriptor": "Kazakhstan (+7)"
+  },
+  {
+    "id": "db8d95ca446c11de98360015c5e6daf6",
+    "descriptor": "Kenya (+254)"
+  },
+  {
+    "id": "fdd0f820fafb411f8262164cccaab9d1",
+    "descriptor": "Kiribati (+686)"
+  },
+  {
+    "id": "db8d5768446c11de98360015c5e6daf6",
+    "descriptor": "Korea, Democratic People's Republic of (+850)"
+  },
+  {
+    "id": "db8d45c0446c11de98360015c5e6daf6",
+    "descriptor": "Korea, Republic of (+82)"
+  },
+  {
+    "id": "5ce3ffe91c484dc59059e4650396fde6",
+    "descriptor": "Kosovo (+377)"
+  },
+  {
+    "id": "1ee9666374ac4a1c965a9da89345b822",
+    "descriptor": "Kosovo (+381)"
+  },
+  {
+    "id": "d22bee76e28110000d88dd1fe008004e",
+    "descriptor": "Kosovo (+383)"
+  },
+  {
+    "id": "2030921af8a34e5abb49c899e0bf4153",
+    "descriptor": "Kosovo (+386)"
+  },
+  {
+    "id": "db8d96ba446c11de98360015c5e6daf6",
+    "descriptor": "Kuwait (+965)"
+  },
+  {
+    "id": "db8dbcf8446c11de98360015c5e6daf6",
+    "descriptor": "Kyrgyzstan (+996)"
+  },
+  {
+    "id": "db8dbdf2446c11de98360015c5e6daf6",
+    "descriptor": "Laos (+856)"
+  },
+  {
+    "id": "db8d7e96446c11de98360015c5e6daf6",
+    "descriptor": "Latvia (+371)"
+  },
+  {
+    "id": "db8d46b0446c11de98360015c5e6daf6",
+    "descriptor": "Lebanon (+961)"
+  },
+  {
+    "id": "da082abc61f940a99b1786c17569e516",
+    "descriptor": "Lesotho (+266)"
+  },
+  {
+    "id": "efed734e71324ed08943df18c738eaf0",
+    "descriptor": "Liberia (+231)"
+  },
+  {
+    "id": "db8dbee2446c11de98360015c5e6daf6",
+    "descriptor": "Libya (+218)"
+  },
+  {
+    "id": "db8d7f90446c11de98360015c5e6daf6",
+    "descriptor": "Liechtenstein (+423)"
+  },
+  {
+    "id": "db8d808a446c11de98360015c5e6daf6",
+    "descriptor": "Lithuania (+370)"
+  },
+  {
+    "id": "db8d47b4446c11de98360015c5e6daf6",
+    "descriptor": "Luxembourg (+352)"
+  },
+  {
+    "id": "ea41fb13cea14c2d93657259ef180743",
+    "descriptor": "Macao (+853)"
+  },
+  {
+    "id": "db8dc680446c11de98360015c5e6daf6",
+    "descriptor": "Madagascar (+261)"
+  },
+  {
+    "id": "db8dc770446c11de98360015c5e6daf6",
+    "descriptor": "Malawi (+265)"
+  },
+  {
+    "id": "db8d4aa2446c11de98360015c5e6daf6",
+    "descriptor": "Malaysia (+60)"
+  },
+  {
+    "id": "0fc0553fcdfb48889103ad1bcd2ccc7e",
+    "descriptor": "Maldives (+960)"
+  },
+  {
+    "id": "db8dc860446c11de98360015c5e6daf6",
+    "descriptor": "Mali (+223)"
+  },
+  {
+    "id": "db8d817a446c11de98360015c5e6daf6",
+    "descriptor": "Malta (+356)"
+  },
+  {
+    "id": "9a24cd48ad1144e99fcce77a2a02f8ea",
+    "descriptor": "Marshall Islands (+692)"
+  },
+  {
+    "id": "3ace06f1b78a4a0da132b54186edf7bd",
+    "descriptor": "Martinique (+596)"
+  },
+  {
+    "id": "db8dc96e446c11de98360015c5e6daf6",
+    "descriptor": "Mauritania (+222)"
+  },
+  {
+    "id": "db8d97b4446c11de98360015c5e6daf6",
+    "descriptor": "Mauritius (+230)"
+  },
+  {
+    "id": "b2878e75d48910000d6d493109840024",
+    "descriptor": "Mayotte (+262)"
+  },
+  {
+    "id": "db8d49a8446c11de98360015c5e6daf6",
+    "descriptor": "Mexico (+52)"
+  },
+  {
+    "id": "8c29c07335084586b517df2df9ca3827",
+    "descriptor": "Micronesia, Federated States of (+691)"
+  },
+  {
+    "id": "db8dca5e446c11de98360015c5e6daf6",
+    "descriptor": "Moldova (+373)"
+  },
+  {
+    "id": "5defc656572f49e7a7ad8ad6813e4e5d",
+    "descriptor": "Monaco (+377)"
+  },
+  {
+    "id": "db8dcb58446c11de98360015c5e6daf6",
+    "descriptor": "Mongolia (+976)"
+  },
+  {
+    "id": "e34c9390fe5747aaa97096ac37b49ca8",
+    "descriptor": "Montenegro (+382)"
+  },
+  {
+    "id": "19a1f2d27035100001c429c7e3c60006",
+    "descriptor": "Montserrat (+1)"
+  },
+  {
+    "id": "db8d48ae446c11de98360015c5e6daf6",
+    "descriptor": "Morocco (+212)"
+  },
+  {
+    "id": "db8d8274446c11de98360015c5e6daf6",
+    "descriptor": "Mozambique (+258)"
+  },
+  {
+    "id": "a795d844757440f2b507286879c67449",
+    "descriptor": "Myanmar (+95)"
+  },
+  {
+    "id": "db8dcc48446c11de98360015c5e6daf6",
+    "descriptor": "Namibia (+264)"
+  },
+  {
+    "id": "ae886439f6ae4a168d9b32139b7e5840",
+    "descriptor": "Nauru (+674)"
+  },
+  {
+    "id": "db8d98fe446c11de98360015c5e6daf6",
+    "descriptor": "Nepal (+977)"
+  },
+  {
+    "id": "db8d4b9c446c11de98360015c5e6daf6",
+    "descriptor": "Netherlands (+31)"
+  },
+  {
+    "id": "e6dccbbfe0d94b50906c73077ec8261a",
+    "descriptor": "New Caledonia (+687)"
+  },
+  {
+    "id": "db8d4c96446c11de98360015c5e6daf6",
+    "descriptor": "New Zealand (+64)"
+  },
+  {
+    "id": "db8d8d00446c11de98360015c5e6daf6",
+    "descriptor": "Nicaragua (+505)"
+  },
+  {
+    "id": "94a3d67babc140b68e12ef31c2b627bd",
+    "descriptor": "Niger (+227)"
+  },
+  {
+    "id": "db8dcd42446c11de98360015c5e6daf6",
+    "descriptor": "Nigeria (+234)"
+  },
+  {
+    "id": "0769909891a81000166d6d016ae60030",
+    "descriptor": "Niue (+683)"
+  },
+  {
+    "id": "efd9328924551000034ab7e49c191122",
+    "descriptor": "Norfolk Island (+672)"
+  },
+  {
+    "id": "29d1a7d5a34a47b19a7bdc395a0008fc",
+    "descriptor": "Northern Mariana Islands (+1)"
+  },
+  {
+    "id": "db8dc586446c11de98360015c5e6daf6",
+    "descriptor": "North Macedonia (+389)"
+  },
+  {
+    "id": "db8d8364446c11de98360015c5e6daf6",
+    "descriptor": "Norway (+47)"
+  },
+  {
+    "id": "63ff9a57537b420e9b027fcc143a802e",
+    "descriptor": "Oman (+968)"
+  },
+  {
+    "id": "db8d845e446c11de98360015c5e6daf6",
+    "descriptor": "Pakistan (+92)"
+  },
+  {
+    "id": "0d9062a00cab4be48c88dcd5bbd7770d",
+    "descriptor": "Palau (+680)"
+  },
+  {
+    "id": "db8d8dfa446c11de98360015c5e6daf6",
+    "descriptor": "Panama (+507)"
+  },
+  {
+    "id": "db8dce32446c11de98360015c5e6daf6",
+    "descriptor": "Papua New Guinea (+675)"
+  },
+  {
+    "id": "db8dcf2c446c11de98360015c5e6daf6",
+    "descriptor": "Paraguay (+595)"
+  },
+  {
+    "id": "db8d8ef4446c11de98360015c5e6daf6",
+    "descriptor": "Peru (+51)"
+  },
+  {
+    "id": "db8d4d90446c11de98360015c5e6daf6",
+    "descriptor": "Philippines (+63)"
+  },
+  {
+    "id": "e2c4dc95d9da10000433dad5dae80011",
+    "descriptor": "Pitcairn Islands (+64)"
+  },
+  {
+    "id": "db8d4e94446c11de98360015c5e6daf6",
+    "descriptor": "Poland (+48)"
+  },
+  {
+    "id": "db8d5678446c11de98360015c5e6daf6",
+    "descriptor": "Portugal (+351)"
+  },
+  {
+    "id": "db8d854e446c11de98360015c5e6daf6",
+    "descriptor": "Puerto Rico (+1)"
+  },
+  {
+    "id": "db8d5574446c11de98360015c5e6daf6",
+    "descriptor": "Qatar (+974)"
+  },
+  {
+    "id": "cbb3e8ee1c9e4e4e90f1034be8ad7118",
+    "descriptor": "Reunion (+262)"
+  },
+  {
+    "id": "db8d863e446c11de98360015c5e6daf6",
+    "descriptor": "Romania (+40)"
+  },
+  {
+    "id": "db8de282446c11de98360015c5e6daf6",
+    "descriptor": "Russian Federation (+7)"
+  },
+  {
+    "id": "db8dd01c446c11de98360015c5e6daf6",
+    "descriptor": "Rwanda (+250)"
+  },
+  {
+    "id": "881527f6cec910000ba82b8f41e01128",
+    "descriptor": "Saint Barthelemy (+590)"
+  },
+  {
+    "id": "27624417a227100005cf9aff8ed00029",
+    "descriptor": "Saint Helena, Ascension and Tristan da Cunha (+247)"
+  },
+  {
+    "id": "e1c1855cfe45100004bff10743eb1127",
+    "descriptor": "Saint Helena, Ascension and Tristan da Cunha (+290)"
+  },
+  {
+    "id": "d9b127a00a044daea64c595d9da302d6",
+    "descriptor": "Saint Kitts and Nevis (+1)"
+  },
+  {
+    "id": "8718c61cc7aa450f87319e81debd1561",
+    "descriptor": "Saint Lucia (+1)"
+  },
+  {
+    "id": "66b7082a21e510000961cea6f1c6002f",
+    "descriptor": "Saint Martin (+590)"
+  },
+  {
+    "id": "95c155010daf100005ea5c991cba0017",
+    "descriptor": "Saint Pierre and Miquelon (+508)"
+  },
+  {
+    "id": "0a6f303918af4a5b9cdc7d909430bf5d",
+    "descriptor": "Saint Vincent and the Grenadines (+1)"
+  },
+  {
+    "id": "659047176b2b4207b46f0418ee4b01c7",
+    "descriptor": "Samoa (+685)"
+  },
+  {
+    "id": "024b32e337ad47478ca4429ced880052",
+    "descriptor": "San Marino (+378)"
+  },
+  {
+    "id": "17f0ba2f42024de297c140a20cd094e9",
+    "descriptor": "Sao Tome and Principe (+239)"
+  },
+  {
+    "id": "db8d5376446c11de98360015c5e6daf6",
+    "descriptor": "Saudi Arabia (+966)"
+  },
+  {
+    "id": "db8dd116446c11de98360015c5e6daf6",
+    "descriptor": "Senegal (+221)"
+  },
+  {
+    "id": "db8d99ee446c11de98360015c5e6daf6",
+    "descriptor": "Serbia (+381)"
+  },
+  {
+    "id": "20ce044b404b4d91ae7a80dbc28ea223",
+    "descriptor": "Seychelles (+248)"
+  },
+  {
+    "id": "e25451f731f04290a7204acfec0dec72",
+    "descriptor": "Sierra Leone (+232)"
+  },
+  {
+    "id": "db8d527c446c11de98360015c5e6daf6",
+    "descriptor": "Singapore (+65)"
+  },
+  {
+    "id": "820e23d74316461da9c4ae97e46a266a",
+    "descriptor": "Sint Maarten (+1)"
+  },
+  {
+    "id": "db8d8742446c11de98360015c5e6daf6",
+    "descriptor": "Slovakia (+421)"
+  },
+  {
+    "id": "db8dd206446c11de98360015c5e6daf6",
+    "descriptor": "Slovenia (+386)"
+  },
+  {
+    "id": "0d6eb683708a46fdba6a1e65bb25eaba",
+    "descriptor": "Solomon Islands (+677)"
+  },
+  {
+    "id": "5594e6f1a98f414eb72220f59952a1dc",
+    "descriptor": "Somalia (+252)"
+  },
+  {
+    "id": "db8d42b4446c11de98360015c5e6daf6",
+    "descriptor": "South Africa (+27)"
+  },
+  {
+    "id": "cd218d9bbffb4b93b91e8c9ab47e17dc",
+    "descriptor": "South Sudan (+211)"
+  },
+  {
+    "id": "db8d6136446c11de98360015c5e6daf6",
+    "descriptor": "Spain (+34)"
+  },
+  {
+    "id": "db8dd2f6446c11de98360015c5e6daf6",
+    "descriptor": "Sri Lanka (+94)"
+  },
+  {
+    "id": "049a09cc1bc04491ac9b875dbd70d648",
+    "descriptor": "State of Palestine (+970)"
+  },
+  {
+    "id": "db8dd3e6446c11de98360015c5e6daf6",
+    "descriptor": "Sudan (+249)"
+  },
+  {
+    "id": "470cda4f0f8c46ee85d33631c9d3fe8b",
+    "descriptor": "Suriname (+597)"
+  },
+  {
+    "id": "0f234e35f628100002912f520cfe0012",
+    "descriptor": "Svalbard and Jan Mayen (+47)"
+  },
+  {
+    "id": "db8d5178446c11de98360015c5e6daf6",
+    "descriptor": "Sweden (+46)"
+  },
+  {
+    "id": "db8d680c446c11de98360015c5e6daf6",
+    "descriptor": "Switzerland (+41)"
+  },
+  {
+    "id": "db8d9ade446c11de98360015c5e6daf6",
+    "descriptor": "Syria (+963)"
+  },
+  {
+    "id": "db8d5088446c11de98360015c5e6daf6",
+    "descriptor": "Taiwan (+886)"
+  },
+  {
+    "id": "db8dd4d6446c11de98360015c5e6daf6",
+    "descriptor": "Tajikistan (+992)"
+  },
+  {
+    "id": "db8dd5d0446c11de98360015c5e6daf6",
+    "descriptor": "Tanzania (+255)"
+  },
+  {
+    "id": "db8d8fee446c11de98360015c5e6daf6",
+    "descriptor": "Thailand (+66)"
+  },
+  {
+    "id": "af0280b45b3b47459a85bf7852f36dec",
+    "descriptor": "Timor-Leste (+670)"
+  },
+  {
+    "id": "6cd171babf8e409f916369c152e6a9f4",
+    "descriptor": "Togo (+228)"
+  },
+  {
+    "id": "155638d8780110000982febebc2b001c",
+    "descriptor": "Tokelau (+690)"
+  },
+  {
+    "id": "860fc4c45c9348a9bb7f55b1c6b4b330",
+    "descriptor": "Tonga (+676)"
+  },
+  {
+    "id": "db8dd6c0446c11de98360015c5e6daf6",
+    "descriptor": "Trinidad and Tobago (+1)"
+  },
+  {
+    "id": "db8dd7ba446c11de98360015c5e6daf6",
+    "descriptor": "Tunisia (+216)"
+  },
+  {
+    "id": "db8d8832446c11de98360015c5e6daf6",
+    "descriptor": "Türkiye (+90)"
+  },
+  {
+    "id": "db8dd8aa446c11de98360015c5e6daf6",
+    "descriptor": "Turkmenistan (+993)"
+  },
+  {
+    "id": "7d749bf66dd54790b215a6ac3600afa6",
+    "descriptor": "Turks and Caicos Islands (+1)"
+  },
+  {
+    "id": "2b8adbafb5ee43e5a32b80e54629f5b4",
+    "descriptor": "Tuvalu (+688)"
+  },
+  {
+    "id": "6407ee7f12864b719eb31da034f8bb57",
+    "descriptor": "U. S. Virgin Islands (+1)"
+  },
+  {
+    "id": "db8dd9e0446c11de98360015c5e6daf6",
+    "descriptor": "Uganda (+256)"
+  },
+  {
+    "id": "db8d90de446c11de98360015c5e6daf6",
+    "descriptor": "Ukraine (+380)"
+  },
+  {
+    "id": "db8d6af0446c11de98360015c5e6daf6",
+    "descriptor": "United Arab Emirates (+971)"
+  },
+  {
+    "id": "db8d5e3e446c11de98360015c5e6daf6",
+    "descriptor": "United Kingdom (+44)"
+  },
+  {
+    "id": "c7471c3d83c240f3819025f92d929eed",
+    "descriptor": "United States Minor Outlying Islands (+1)"
+  },
+  {
+    "id": "db8d3ca6446c11de98360015c5e6daf6",
+    "descriptor": "United States of America (+1)"
+  },
+  {
+    "id": "db8d9db8446c11de98360015c5e6daf6",
+    "descriptor": "Uruguay (+598)"
+  },
+  {
+    "id": "db8ddeae446c11de98360015c5e6daf6",
+    "descriptor": "Uzbekistan (+998)"
+  },
+  {
+    "id": "6defa9fc8edd487eaca758a275da6df8",
+    "descriptor": "Vanuatu (+678)"
+  },
+  {
+    "id": "db8d4f8e446c11de98360015c5e6daf6",
+    "descriptor": "Venezuela (+58)"
+  },
+  {
+    "id": "db8ddfa8446c11de98360015c5e6daf6",
+    "descriptor": "Vietnam (+84)"
+  },
+  {
+    "id": "19a1f2d27035100003d216bb8d63002e",
+    "descriptor": "Wallis and Futuna (+681)"
+  },
+  {
+    "id": "6e87b64f5aac4e6ba49619d9e1883e0a",
+    "descriptor": "Western Sahara (+212)"
+  },
+  {
+    "id": "4080b891b2554bceb449569845661e7c",
+    "descriptor": "Yemen (+967)"
+  },
+  {
+    "id": "db8de098446c11de98360015c5e6daf6",
+    "descriptor": "Zambia (+260)"
+  },
+  {
+    "id": "db8de192446c11de98360015c5e6daf6",
+    "descriptor": "Zimbabwe (+263)"
+  }
+]

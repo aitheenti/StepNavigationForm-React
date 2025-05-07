@@ -1,0 +1,305 @@
+{
+  "total": 60,
+  "data": [
+    {
+      "id": "31475924e5494080a8a458bf4fa293ed",
+      "descriptor": "Alabama",
+      "alpha2Code": "AL"
+    },
+    {
+      "id": "c8891443252c4c4ea9427be64d755b9f",
+      "descriptor": "Alaska",
+      "alpha2Code": "AK"
+    },
+    {
+      "id": "c89eea109e00414ebd2bcf86c3657443",
+      "descriptor": "American Samoa",
+      "alpha2Code": "AS"
+    },
+    {
+      "id": "c7b20b0d4bc04711a00900569e9afabd",
+      "descriptor": "Arizona",
+      "alpha2Code": "AZ"
+    },
+    {
+      "id": "cea6c5355e1b4983b5fd0640310385b5",
+      "descriptor": "Arkansas",
+      "alpha2Code": "AR"
+    },
+    {
+      "id": "1ca58d5d459441c486b5921520e418d2",
+      "descriptor": "Armed Forces Americas",
+      "alpha2Code": "AA"
+    },
+    {
+      "id": "a2a30548028d4ec28e8ffcb4473cec2e",
+      "descriptor": "Armed Forces Europe",
+      "alpha2Code": "AE"
+    },
+    {
+      "id": "f6518ded366f46f882c4edcf152fb735",
+      "descriptor": "Armed Forces Pacific",
+      "alpha2Code": "AP"
+    },
+    {
+      "id": "ec3d210e4240442e99a28fa70419aec5",
+      "descriptor": "California",
+      "alpha2Code": "CA"
+    },
+    {
+      "id": "a83d6eabae3b49718c4ce09eeb66fd0b",
+      "descriptor": "Colorado",
+      "alpha2Code": "CO"
+    },
+    {
+      "id": "bffb3e4c9a4a4542bc6bd075a4c26247",
+      "descriptor": "Connecticut",
+      "alpha2Code": "CT"
+    },
+    {
+      "id": "18b4cf9ddb4e4542a39614cb55b4dde7",
+      "descriptor": "Delaware",
+      "alpha2Code": "DE"
+    },
+    {
+      "id": "0d2bcd0308f541938f3ae29e7cc69ae0",
+      "descriptor": "District of Columbia",
+      "alpha2Code": "DC"
+    },
+    {
+      "id": "9c1a239b35bd4598856e5393b249b8a1",
+      "descriptor": "Florida",
+      "alpha2Code": "FL"
+    },
+    {
+      "id": "dec8eabbb13d45bdb159b8e25d896110",
+      "descriptor": "Georgia",
+      "alpha2Code": "GA"
+    },
+    {
+      "id": "65ca11288f1d4599bef44996d074b286",
+      "descriptor": "Guam",
+      "alpha2Code": "GU"
+    },
+    {
+      "id": "e7634111501844fe83a0b316b16beb08",
+      "descriptor": "Hawaii",
+      "alpha2Code": "HI"
+    },
+    {
+      "id": "b1c017b8f6294b0e82773aaca1dce33e",
+      "descriptor": "Idaho",
+      "alpha2Code": "ID"
+    },
+    {
+      "id": "d8bb292ed9fe44a2899a990ad569538c",
+      "descriptor": "Illinois",
+      "alpha2Code": "IL"
+    },
+    {
+      "id": "28489665bcac44028a70d0642c932be4",
+      "descriptor": "Indiana",
+      "alpha2Code": "IN"
+    },
+    {
+      "id": "a9be12393ccd460ea46d08c249ce6c8b",
+      "descriptor": "Iowa",
+      "alpha2Code": "IA"
+    },
+    {
+      "id": "975ef5fd66c048909a4d64b64b762836",
+      "descriptor": "Kansas",
+      "alpha2Code": "KS"
+    },
+    {
+      "id": "66d386e70a2946b695835e59cebcd7b2",
+      "descriptor": "Kentucky",
+      "alpha2Code": "KY"
+    },
+    {
+      "id": "777facb47a8442bfba79628424812d64",
+      "descriptor": "Louisiana",
+      "alpha2Code": "LA"
+    },
+    {
+      "id": "b6d5367355b64eebb870b465d2e72205",
+      "descriptor": "Maine",
+      "alpha2Code": "ME"
+    },
+    {
+      "id": "586509e6daa741808206b095fee97e8f",
+      "descriptor": "Maryland",
+      "alpha2Code": "MD"
+    },
+    {
+      "id": "c66d738416b74fb180376cf59cc7ec8f",
+      "descriptor": "Massachusetts",
+      "alpha2Code": "MA"
+    },
+    {
+      "id": "b8372eef6b5341a39cdc95ac32790cba",
+      "descriptor": "Michigan",
+      "alpha2Code": "MI"
+    },
+    {
+      "id": "02f3984b69ba450080e456fe733f6741",
+      "descriptor": "Minnesota",
+      "alpha2Code": "MN"
+    },
+    {
+      "id": "7c552cab901d4a1aa359a9cfc62850a7",
+      "descriptor": "Mississippi",
+      "alpha2Code": "MS"
+    },
+    {
+      "id": "790e3c3ddfaa4123905237a05f1df9e9",
+      "descriptor": "Missouri",
+      "alpha2Code": "MO"
+    },
+    {
+      "id": "d649a916a12e4680887c98d5836d0647",
+      "descriptor": "Montana",
+      "alpha2Code": "MT"
+    },
+    {
+      "id": "3a652942d5f84071a48bc94a2b17d331",
+      "descriptor": "Nebraska",
+      "alpha2Code": "NE"
+    },
+    {
+      "id": "33e7c3874e0e4d28a8047926aa4a1d21",
+      "descriptor": "Nevada",
+      "alpha2Code": "NV"
+    },
+    {
+      "id": "9efc91fd842142a0b0bf455e723b65a0",
+      "descriptor": "New Hampshire",
+      "alpha2Code": "NH"
+    },
+    {
+      "id": "9b56fe16bdf74b2cbad8b644cdf6015a",
+      "descriptor": "New Jersey",
+      "alpha2Code": "NJ"
+    },
+    {
+      "id": "32c182efea294964a9000772bc740672",
+      "descriptor": "New Mexico",
+      "alpha2Code": "NM"
+    },
+    {
+      "id": "9819bf0148e54f89adb255aa7bead635",
+      "descriptor": "New York",
+      "alpha2Code": "NY"
+    },
+    {
+      "id": "1486a0a4a8464c3b9ec482d4038deb99",
+      "descriptor": "North Carolina",
+      "alpha2Code": "NC"
+    },
+    {
+      "id": "0567a9c4e90340e192aa655d387323c6",
+      "descriptor": "North Dakota",
+      "alpha2Code": "ND"
+    },
+    {
+      "id": "4848ee8c358e47e699dd8e11c9ef7112",
+      "descriptor": "Northern Mariana Islands",
+      "alpha2Code": "MP"
+    },
+    {
+      "id": "41493c81d9214eb190fd14067c7d974d",
+      "descriptor": "Ohio",
+      "alpha2Code": "OH"
+    },
+    {
+      "id": "205ef21c556342268847466c48ec5a8c",
+      "descriptor": "Oklahoma",
+      "alpha2Code": "OK"
+    },
+    {
+      "id": "6fcc4198762c4a7c807486c849fe94dd",
+      "descriptor": "Oregon",
+      "alpha2Code": "OR"
+    },
+    {
+      "id": "f620a79f2dc44473828b42881312de2b",
+      "descriptor": "Pennsylvania",
+      "alpha2Code": "PA"
+    },
+    {
+      "id": "23c0c7a08b674337bd67252e3648f2a9",
+      "descriptor": "Puerto Rico",
+      "alpha2Code": "PR"
+    },
+    {
+      "id": "4c2f08af9b834f13bf4c2d41679d222d",
+      "descriptor": "Rhode Island",
+      "alpha2Code": "RI"
+    },
+    {
+      "id": "1d2632a43d204a2799bcd38b57e8a26e",
+      "descriptor": "South Carolina",
+      "alpha2Code": "SC"
+    },
+    {
+      "id": "745d76f06d2b41738aecee630c5888a0",
+      "descriptor": "South Dakota",
+      "alpha2Code": "SD"
+    },
+    {
+      "id": "00044a0287144032bca6973ac0eedb3e",
+      "descriptor": "Tennessee",
+      "alpha2Code": "TN"
+    },
+    {
+      "id": "fc77e3a1ab36487f9646d14f7242dd77",
+      "descriptor": "Texas",
+      "alpha2Code": "TX"
+    },
+    {
+      "id": "98d5e73cb8d048558744b3b43786d883",
+      "descriptor": "United States Minor Outlying Islands",
+      "alpha2Code": "UM"
+    },
+    {
+      "id": "9bf006cfb5a44c51b84138e1a0e7d805",
+      "descriptor": "Utah",
+      "alpha2Code": "UT"
+    },
+    {
+      "id": "7df7a0cb48724af7891cb70410546897",
+      "descriptor": "Vermont",
+      "alpha2Code": "VT"
+    },
+    {
+      "id": "e0889a76c58d4fff9b54b80dadc49000",
+      "descriptor": "Virginia",
+      "alpha2Code": "VA"
+    },
+    {
+      "id": "954f8a558c0c42acae0fe0dccc6b0b14",
+      "descriptor": "Virgin Islands, U.S.",
+      "alpha2Code": "VI"
+    },
+    {
+      "id": "de9b48948ef8421db97ddf4ea206e931",
+      "descriptor": "Washington",
+      "alpha2Code": "WA"
+    },
+    {
+      "id": "dc5bc08fd91446bdbd108d98a19ac0ff",
+      "descriptor": "West Virginia",
+      "alpha2Code": "WV"
+    },
+    {
+      "id": "96f29b3353ac4653b1a860751618e36b",
+      "descriptor": "Wisconsin",
+      "alpha2Code": "WI"
+    },
+    {
+      "id": "0022bee925f740b0a078f707a1868642",
+      "descriptor": "Wyoming",
+      "alpha2Code": "WY"
+    }
+  ]
+}

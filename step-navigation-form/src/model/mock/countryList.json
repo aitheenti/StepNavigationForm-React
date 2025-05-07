@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "descriptor": "United States"
+  },
+  {
+    "id": 2,
+    "descriptor": "Canada"
+  },
+  {
+    "id": 3,
+    "descriptor": "Mexico"
+  },
+  {
+    "id": 4,
+    "descriptor": "United Kingdom"
+  },
+  {
+    "id": 5,
+    "descriptor": "Germany"
+  },
+  {
+    "id": 6,
+    "descriptor": "France"
+  },
+  {
+    "id": 7,
+    "descriptor": "Italy"
+  },
+  {
+    "id": 8,
+    "descriptor": "Spain"
+  },
+  {
+    "id": 9,
+    "descriptor": "Australia"
+  },
+  {
+    "id": 10,
+    "descriptor": "Japan"
+  },
+  {
+    "id": 11,
+    "descriptor": "China"
+  },
+  {
+    "id": 12,
+    "descriptor": "India"
+  },
+  {
+    "id": 13,
+    "descriptor": "Brazil"
+  },
+  {
+    "id": 14,
+    "descriptor": "South Africa"
+  },
+  {
+    "id": 15,
+    "descriptor": "Russia"
+  },
+  {
+    "id": 16,
+    "descriptor": "South Korea"
+  },
+  {
+    "id": 17,
+    "descriptor": "Netherlands"
+  },
+  {
+    "id": 18,
+    "descriptor": "Sweden"
+  },
+  {
+    "id": 19,
+    "descriptor": "Norway"
+  },
+  {
+    "id": 20,
+    "descriptor": "Finland"
+  },
+  {
+    "id": 21,
+    "descriptor": "Denmark"
+  },
+  {
+    "id": 22,
+    "descriptor": "Belgium"
+  },
+  {
+    "id": 23,
+    "descriptor": "Switzerland"
+  },
+  {
+    "id": 24,
+    "descriptor": "Austria"
+  },
+  {
+    "id": 25,
+    "descriptor": "Ireland"
+  },
+  {
+    "id": 26,
+    "descriptor": "Portugal"
+  },
+  {
+    "id": 27,
+    "descriptor": "Greece"
+  },
+  {
+    "id": 28,
+    "descriptor": "Czech Republic"
+  },
+  {
+    "id": 29,
+    "descriptor": "Hungary"
+  },
+  {
+    "id": 30,
+    "descriptor": "Poland"
+  },
+  {
+    "id": 31,
+    "descriptor": "Turkey"
+  }
+]

@@ -2,9 +2,14 @@ import { useContext } from "react";
 import { StepContext } from "../stepContext";
 
 const StepFooter = () => {
-  console.log("step footer");
-  const { formStepsInfo, formStep, handlePrevious, handleNext, handleSubmit } =
-    useContext(StepContext);
+  const {
+    formStepsInfo,
+    formStep,
+    handlePrevious,
+    onSubmit,
+    validateNextAndContinue,
+    handleSubmit,
+  } = useContext(StepContext);
 
   return (
     <div className="flex justify-end">
@@ -17,10 +22,10 @@ const StepFooter = () => {
         </button>
       )}
       {formStep < formStepsInfo.length && (
-        <button onClick={handleNext}>Save and Continue</button>
+        <button onClick={validateNextAndContinue}>Save and Continue</button>
       )}
       {formStep === formStepsInfo.length && (
-        <button onClick={handleSubmit}>Submit</button>
+        <button onClick={() => handleSubmit(onSubmit)}>Submit</button>
       )}
     </div>
   );

@@ -5,13 +5,9 @@ import ApplicationQuestions from "./shared/ApplicationQuestions";
 import VoluntaryDisclosures from "./shared/VoluntaryDisclosures";
 import Review from "./shared/Review";
 import { StepContext } from "../stepContext";
-import { FormProvider, useForm } from "react-hook-form";
-import { FormValues } from "../model/FormValues";
 
 const FormContent = () => {
-  const { formStep, onSubmit } = useContext(StepContext);
-
-  const methods = useForm<FormValues>();
+  const { formStep } = useContext(StepContext);
 
   const renderForm = () => {
     switch (formStep) {
@@ -33,11 +29,7 @@ const FormContent = () => {
   return (
     <div>
       <h1>FormContent</h1>
-      <FormProvider {...methods}>
-        <form onSubmit={methods.handleSubmit(onSubmit)}>
-          <div>{renderForm()}</div>
-        </form>
-      </FormProvider>
+      <div>{renderForm()}</div>
     </div>
   );
 };

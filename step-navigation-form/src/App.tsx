@@ -1,11 +1,12 @@
 import React from "react";
 
 import "./App.css";
-import FormContent from "./components/FormContent";
-import StepFooter from "./components/StepFooter";
-import StepHeader from "./components/StepsHeader";
 import { StepContext } from "./stepContext";
-import { FormValues } from "./model/FormValues";
+import { InformationFormValues } from "./model/InformationFormValues";
+import StepHeader from "./components/StepsHeader";
+import FormContent from "./components/FormContent";
+import { FormProvider, useForm } from "react-hook-form";
+import StepFooter from "./components/StepFooter";
 
 function App() {
   const formStepsInfo = [
@@ -31,11 +32,18 @@ function App() {
     },
   ];
 
+  const methods = useForm<InformationFormValues>({
+    mode: "onBlur",
+  });
+
   const [formStep, setFormStep] = React.useState(1);
 
-  const handleNext = () => {
-    if (formStep < formStepsInfo.length) {
-      setFormStep((step) => step + 1);
+  const validateNextAndContinue = async () => {
+    const isValid = await methods.trigger();
+    if (isValid) {
+      if (formStep < formStepsInfo.length) {
+        setFormStep((step) => step + 1);
+      }
     }
   };
 
@@ -45,7 +53,7 @@ function App() {
     }
   };
 
-  const onSubmit = (data: FormValues) => {
+  const onSubmit = (data: InformationFormValues) => {
     console.log(data);
   };
 
@@ -55,16 +63,17 @@ function App() {
         formStep,
         setFormStep,
         formStepsInfo,
-        handleNext,
+        validateNextAndContinue,
         handlePrevious,
         onSubmit,
-        // handleSubmit,
+        handleSubmit: methods.handleSubmit,
       }}
     >
-      <StepHeader />
-
-      <FormContent />
-      <StepFooter />
+      <FormProvider {...methods}>
+        <StepHeader />
+        <FormContent />
+        <StepFooter />
+      </FormProvider>
     </StepContext.Provider>
   );
 }

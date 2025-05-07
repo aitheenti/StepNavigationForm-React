@@ -1,0 +1,25 @@
+{
+  "total": 5,
+  "data": [
+    {
+      "id": "3110e91abc9301930bce3ae5b8e7556d",
+      "descriptor": "II"
+    },
+    {
+      "id": "3110e91abc9301e735ee3ce5b8e75b6d",
+      "descriptor": "III"
+    },
+    {
+      "id": "3110e91abc930101307d3be5b8e7576d",
+      "descriptor": "IV"
+    },
+    {
+      "id": "3110e91abc9301ec09063ce5b8e7596d",
+      "descriptor": "Jr."
+    },
+    {
+      "id": "3110e91abc9301f2aab039e5b8e7516d",
+      "descriptor": "Sr."
+    }
+  ]
+}
