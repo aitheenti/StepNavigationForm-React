@@ -1,5 +1,4 @@
 import { useFormContext } from "react-hook-form";
-import { DevTool } from "@hookform/devtools";
 import countryCodes from "../../model/mock/countryPhoneCodes.json";
 import countryList from "../../model/mock/countryList.json";
 import prefixList from "../../model/mock/prefixList.json";
@@ -57,7 +56,6 @@ const MyInformation = () => {
   const {
     register,
     formState: { errors },
-    control,
   } = useFormContext<InformationFormValues>();
 
   return (
@@ -354,7 +352,6 @@ const MyInformation = () => {
           />
         </div>
       </div>
-      <DevTool control={control} />
     </div>
   );
 };

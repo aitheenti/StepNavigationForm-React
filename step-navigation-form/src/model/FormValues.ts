@@ -21,4 +21,16 @@ export type ExperienceFormValues = {
   socialNetworkUrl: string;
 };
 
-export type FormValues = InformationFormValues & ExperienceFormValues;
+export type ApplicationQuestionsFormValues = {
+  minQualifications: string;
+  legalWork: string;
+  associateStatus: string;
+  hire: string;
+  sponsorship: string;
+  sponsorshipType: string;
+  availability: string;
+};
+
+export type FormValues = InformationFormValues &
+  ExperienceFormValues &
+  ApplicationQuestionsFormValues;

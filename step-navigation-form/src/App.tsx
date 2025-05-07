@@ -7,6 +7,7 @@ import StepHeader from "./components/StepsHeader";
 import FormContent from "./components/FormContent";
 import { FormProvider, useForm } from "react-hook-form";
 import StepFooter from "./components/StepFooter";
+import { DevTool } from "@hookform/devtools";
 
 function App() {
   const formStepsInfo = [
@@ -45,6 +46,13 @@ function App() {
       jobDetails: [],
       languages: [],
       socialNetworkUrl: "",
+      minQualifications: "",
+      legalWork: "",
+      associateStatus: "",
+      hire: "",
+      sponsorship: "",
+      sponsorshipType: "",
+      availability: "",
     },
   });
 
@@ -85,6 +93,9 @@ function App() {
         <StepHeader />
         <FormContent />
         <StepFooter />
+        {process.env.NODE_ENV === "development" && (
+          <DevTool control={methods.control} />
+        )}
       </FormProvider>
     </StepContext.Provider>
   );
