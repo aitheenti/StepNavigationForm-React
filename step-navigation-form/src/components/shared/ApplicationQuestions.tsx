@@ -1,11 +1,14 @@
 import { useFormContext } from "react-hook-form";
 
 const ApplicationQuestions = () => {
-  const { register, watch } = useFormContext();
+  const {
+    register,
+    watch,
+    formState: { errors },
+  } = useFormContext();
 
   const sponsorshipAnswer = watch("sponsorship");
 
-  console.log("sponsorshipAnswer[p", sponsorshipAnswer);
   return (
     <div>
       <h1>ApplicationQuestions</h1>
@@ -18,7 +21,7 @@ const ApplicationQuestions = () => {
             answering this question.<abbr>*</abbr>
           </label>
           <select
-            className="w-80 form-input minimumQualifications"
+            className="w-80 form-input minQualifications"
             {...register("minQualifications", { required: "Required" })}
           >
             <option value={"select"} disabled>
@@ -27,6 +30,11 @@ const ApplicationQuestions = () => {
             <option value={"yes"}>Yes</option>
             <option value={"no"}>No</option>
           </select>
+          {errors.minQualifications && (
+            <p className="form-error">
+              {String(errors.minQualifications.message)}
+            </p>
+          )}
         </div>
 
         <div className="question form-field">
@@ -44,6 +52,9 @@ const ApplicationQuestions = () => {
             <option value={"yes"}>Yes</option>
             <option value={"no"}>No</option>
           </select>
+          {errors.legalWork && (
+            <p className="form-error">{String(errors.legalWork.message)}</p>
+          )}
         </div>
 
         <div className="question form-field">
@@ -64,6 +75,11 @@ const ApplicationQuestions = () => {
               Have never been associated with the company
             </option>
           </select>
+          {errors.associateStatus && (
+            <p className="form-error">
+              {String(errors.associateStatus.message)}
+            </p>
+          )}
         </div>
 
         <div className="question form-field">
@@ -82,6 +98,9 @@ const ApplicationQuestions = () => {
             <option value={"yes"}>Yes</option>
             <option value={"no"}>No</option>
           </select>
+          {errors.hire && (
+            <p className="form-error">{String(errors.hire.message)}</p>
+          )}
         </div>
 
         <div className="question form-field">
@@ -104,6 +123,9 @@ const ApplicationQuestions = () => {
             <option value={"yes"}>Yes</option>
             <option value={"no"}>No</option>
           </select>
+          {errors.sponsorship && (
+            <p className="form-error">{String(errors.sponsorship.message)}</p>
+          )}
         </div>
 
         {sponsorshipAnswer === "yes" && (
@@ -126,6 +148,11 @@ const ApplicationQuestions = () => {
               <option value={"l1"}>L1</option>
               <option value={"stemExtension"}>STEM Extension</option>
             </select>
+            {errors.sponsorshipType && (
+              <p className="form-error">
+                {String(errors.sponsorshipType.message)}
+              </p>
+            )}
           </div>
         )}
 
@@ -144,6 +171,9 @@ const ApplicationQuestions = () => {
             <option value={"fullTime"}>Full Time</option>
             <option value={"partTime"}>Part Time</option>
           </select>
+          {errors.availability && (
+            <p className="form-error">{String(errors.availability.message)}</p>
+          )}
         </div>
       </div>
     </div>
